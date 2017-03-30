@@ -1,0 +1,2 @@
+python print 作为内置函数 print("hello,world");
+python 解释型语言 意味着没有编译环节    面向对象   支持代码封装在对象的编程技术 交互式语言 在python提示符下直接执行
